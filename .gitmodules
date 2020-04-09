@@ -1,0 +1,3 @@
+[submodule "typed-config"]
+	path = typed-config
+	url = https://github.com/psrok1/typed-config
