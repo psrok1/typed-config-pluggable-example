@@ -1,6 +1,6 @@
 from typedconfig import Config, section, group_key, key
 
-from core.config import ApplicationConfig, config
+from app.config import ApplicationConfig, config
 
 
 @section("friendly_plugin")

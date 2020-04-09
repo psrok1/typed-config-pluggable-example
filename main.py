@@ -1,4 +1,4 @@
-from core.config import config
+from app.config import config
 from plugins import active_plugin_callbacks
 
 if __name__ == "__main__":
